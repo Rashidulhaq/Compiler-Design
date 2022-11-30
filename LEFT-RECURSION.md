@@ -1,4 +1,4 @@
-#left recursion
+# left-recursion
 
 Problem-04:
  
